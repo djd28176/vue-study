@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "email": "<EMAIL>",
+      "password": "password123",
+      "name": "John Doe",
+      "id": "eccc"
+    },
+    {
+      "email": "<EMAIL2>",
+      "password": "password456",
+      "name": "Jane Doe",
+      "id": "e92c"
+    },
+    {
+      "id": "b86a",
+      "name": "asd",
+      "email": "asd",
+      "password": "asd"
+    },
+    {
+      "id": "80e5",
+      "name": "123",
+      "email": "123",
+      "password": "123"
+    },
+    {
+      "id": "1820",
+      "name": "asdnfkj",
+      "email": "asdfnjk",
+      "password": "ad;fson"
+    }
+  ],
+  "restaurant": [
+    {
+      "id": "1",
+      "name": "McDonald's",
+      "contact": "11111222333444",
+      "address": "123 Main St "
+    },
+    {
+      "id": "cc94",
+      "name": "McDonald's",
+      "contact": 111111,
+      "address": "123 Main St"
+    }
+  ]
+}
